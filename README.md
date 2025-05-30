@@ -6,15 +6,15 @@ AFA-like Split-Alice wireless keyboard based on ZMK.
 
 Control board:
 
-![image-20250530214307530](E:\Documents\个人设计\NUl4ice\pics\control-board.jpg)
+![image-20250530214307530](pics/control-board.jpg)
 
 LeftHand:
 
-![image-20250530213943664](E:\Documents\个人设计\NUl4ice\pics\lefthand.jpg)
+![image-20250530213943664](pics/lefthand.jpg)
 
 RightHand:
 
-![image-20250530214156064](E:\Documents\个人设计\NUl4ice\pics\righthand.jpg)
+![image-20250530214156064](pics/righthand.jpg)
 
 ## Layout
 
