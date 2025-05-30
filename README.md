@@ -2,6 +2,8 @@
 
 AFA-like Split-Alice wireless keyboard based on ZMK.
 
+![Render](pics/Render.png)
+
 ## PCB
 
 Control board:
@@ -20,9 +22,5 @@ RightHand:
 
 ![Spring-alice-layout](https://s2.loli.net/2025/04/05/QTrRs2EiZFGCKHq.png)
 
-## Render
 
-TODO
-
-![render](pics/alice-true v3.png)
 
